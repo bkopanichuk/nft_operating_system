@@ -1,0 +1,26 @@
+[
+  {
+    "name": "inspire",
+    "path": "/inspire",
+    "component": "/Users/bogdan/Desktop/nft_operating_system/frontend/pages/inspire.vue",
+    "chunkName": "pages/inspire"
+  },
+  {
+    "name": "login",
+    "path": "/login",
+    "component": "/Users/bogdan/Desktop/nft_operating_system/frontend/pages/login.vue",
+    "chunkName": "pages/login"
+  },
+  {
+    "name": "register",
+    "path": "/register",
+    "component": "/Users/bogdan/Desktop/nft_operating_system/frontend/pages/register.vue",
+    "chunkName": "pages/register"
+  },
+  {
+    "name": "index",
+    "path": "/",
+    "component": "/Users/bogdan/Desktop/nft_operating_system/frontend/pages/index.vue",
+    "chunkName": "pages/index"
+  }
+]
